@@ -21,7 +21,7 @@ This Power BI project presents a detailed analysis of employee attrition pattern
 ## 📁 Files Included
 
 - `HR_Attrition_Dashboard.pbix` – The Power BI dashboard
-- SQL_QUERY_Attrition
+- SQLQuery_Attrition
 - `Attrition Table.csv` – Source dataset
 
 ---
